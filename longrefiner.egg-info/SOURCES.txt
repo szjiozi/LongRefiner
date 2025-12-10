@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+longrefiner/__init__.py
+longrefiner/prompt_template.py
+longrefiner/refiner.py
+longrefiner/task_instruction.py
+longrefiner/version.py
+longrefiner.egg-info/PKG-INFO
+longrefiner.egg-info/SOURCES.txt
+longrefiner.egg-info/dependency_links.txt
+longrefiner.egg-info/requires.txt
+longrefiner.egg-info/top_level.txt
